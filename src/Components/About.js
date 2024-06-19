@@ -24,7 +24,7 @@ const About = () => {
                     <p className="text-gray-700 text-sm mt-3">
                         "A passionate frontend developer dedicated to creating beautiful and user-friendly web experiences. With a strong foundation in <strong>HTML, CSS, JavaScript and React. Js</strong> I specialize in transforming design concepts into seamless, responsive interfaces. My attention to detail and commitment to clean, efficient code ensures that every project not only looks great but performs flawlessly across all devices. I'm always eager to learn and adapt to new technologies, striving to deliver modern and impactful solutions.<strong>Let's work together to bring your vision to life!</strong>"
                     </p>
-                    <Link to="https://drive.google.com/file/d/1fuz4puPV4HP0BTVUHf_gL7qDo4D0CwAK/view?usp=drive_link" target='blank'>
+                    <Link to="https://drive.google.com/file/d/1FTYFh0TnveT2OvnWUyAnIf7YFXIVFRWK/view?usp=drivesdk" target='blank'>
                         <button type="button" className="px-3 py-2 mt-6 md:mt-12 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 w-[140px]">Get My Resume</button>
                     </Link >
                 </div>
